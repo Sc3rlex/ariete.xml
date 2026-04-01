@@ -1,4 +1,3 @@
-
 <products>
 <product>
 <id>77269</id>
@@ -7,7 +6,12 @@
 <price>269,99</price>
 <availability>out of stock</availability>
 <link>https://ariete.bg/furna-za-pica-ariete-da-gennaro-430c/</link>
-<image_link>https://ariete.bg/wp-content/uploads/2026/03/gabdu8c6xhsux8zfi8nd.webp</image_link>
+<image_link>https://ariete.bg/wp-content/uploads/2026/03/gabdu8c6xhsux8zfi8nd.webp
+https://ariete.bg/wp-content/uploads/2026/03/xyn8weqs6ilqrsehtpul.webp
+https://ariete.bg/wp-content/uploads/2026/03/urxcum4h4bcarzrbrdiy.webp
+https://ariete.bg/wp-content/uploads/2026/03/b4vwmmzypqhiqasa5ymv.webp
+https://ariete.bg/wp-content/uploads/2026/03/forno-pizza-ariete-3901accessori-f41bb34a4ceec71487d7bf01e64bc940.webp
+</image_link>
 <categories>Мини фурни > Фурни за пица</categories>
 <color/>
 <category>Мини фурни</category>
@@ -15,15 +19,37 @@
 <weight>12 kg</weight>
 <size/>
 <product_type>simple</product_type>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/03/xyn8weqs6ilqrsehtpul.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/03/urxcum4h4bcarzrbrdiy.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/03/b4vwmmzypqhiqasa5ymv.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/03/forno-pizza-ariete-3901accessori-f41bb34a4ceec71487d7bf01e64bc940.webp</additional_image_link>
 <sku>00C390100AR0</sku>
 <width>44 cm</width>
 <height>29 cm</height>
 <lenght>46 cm</lenght>
 </product>
+
+<product>
+<id>75790</id>
+<title>Планетарен миксер Gourmet Supreme 10L</title>
+<description>Планетарен миксер Gourmet Supreme 10L за месене, разбиване и смесване на големи количества С планетарният миксер Gourmet Supreme 10L вашата кухня вече няма да има ограничения, дори и при най-амбициозните рецепти! Благодарение на мощното си планетарно задвижване и изцяло металните зъбни колела, този миксер е създаден, за да предлага превъзходна производителност и изключителна издръжливост. Огромната му неръждаема стоманена купа с обем 10 литра, съчетана с мощност 2000 W, ви позволява да обработвате големи количества съставки, като гарантира перфектни резултати всеки път. Независимо дали трябва да месите, смесвате или разбивате, винаги ще имате абсолютна прецизност: 6-те нива на скорост и функцията Pulse ви дават пълен контрол върху всяка подготовка. А с противоплъзгащите крачета стабилността е гарантирана, дори и при най-интензивната работа. Планетарният миксер Ariete Gourmet Supreme 10L включва три основни аксесоара за всяка ваша нужда: Кука за твърди теста от алуминий, идеална за пица, домашно приготвен хляб и пресни макаронени изделия. Кука за меки теста от алуминий, перфектна за кремообразни смеси, меки основи за торти и деликатни смеси. Бъркалка от неръждаема стомана, за разбиване на яйца, сметана и кремове за нула време, с леки и пухкави резултати. Да месите сладкиши на ръка? Спрете да се изморявате! С планетарен миксер Gourmet Supreme 10L ще превърнете съставките си в тесто за сладкиши изключително лесно и бързо. Домашно приготвена пица и фокача? Пригответе безупречно тесто за пица и фокача за нула време и без никакво усилие. Домашната пица никога не е била толкова лесна и забавна! Разбийте сметаната като сладкар! Разбийте прясната сметана до твърда пяна за нула време. Независимо дали приготвяте сложна торта или декорирате десерт, с Gourmet Supreme 10L ще постигнете професионален резултат без усилие.</description>
+<price>269,99</price>
+<availability>out of stock</availability>
+<link>https://ariete.bg/planetaren-mikser-gourmet-supreme-10-litra/</link>
+<image_link>https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-1.webp
+https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-2.webp
+https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-5.webp
+https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-4.webp
+https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-8.webp</image_link>
+<categories>Миксери</categories>
+<color/>
+<category>Миксери</category>
+<child_category>Миксери</child_category>
+<weight>9.5 kg</weight>
+<size/>
+<product_type>simple</product_type>
+<sku>00C157600AR0</sku>
+<width>27 cm</width>
+<height>37.5 cm</height>
+<lenght>42 cm</lenght>
+</product>
+
 <product>
 <id>75771</id>
 <title>Парочистачка Easy Steam</title>
@@ -31,7 +57,11 @@
 <price>79,99</price>
 <availability>in stock</availability>
 <link>https://ariete.bg/parochistachka-easy-steam/</link>
-<image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-1.webp</image_link>
+<image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-1.webp
+https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-5.webp
+https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-4.webp
+https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-2.webp
+https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-3.webp</image_link>
 <categories>Топ Оферти > Парочистачки</categories>
 <color/>
 <category>Парочистачки</category>
@@ -39,15 +69,12 @@
 <weight>2.5 kg</weight>
 <size/>
 <product_type>simple</product_type>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-5.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-4.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-2.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-3.webp</additional_image_link>
 <sku>00P417901AR0</sku>
 <width>22.5 cm</width>
 <height>116 cm</height>
 <lenght>33 cm</lenght>
 </product>
+
 <product>
 <id>75744</id>
 <title>Парочистачка Dual Steam Scrub с въртящ се моп</title>
@@ -55,7 +82,11 @@
 <price>189,99</price>
 <availability>in stock</availability>
 <link>https://ariete.bg/parochistachka-dual-steam-scrub-s-vartjasht-se-mop/</link>
-<image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete.webp</image_link>
+<image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete.webp
+https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-2.webp
+https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-6.webp
+https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-3.webp
+https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-4.webp</image_link>
 <categories>Топ Оферти > Парочистачки</categories>
 <color/>
 <category>Парочистачки</category>
@@ -63,13 +94,30 @@
 <weight>4.5 kg</weight>
 <size/>
 <product_type>simple</product_type>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-2.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-6.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-3.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-4.webp</additional_image_link>
 <sku>00P417800AR0</sku>
 <width>17 cm</width>
 <height>120 cm</height>
+<lenght>37 cm</lenght>
+</product>
+
+<product>
+<id>75335</id>
+<title>Парочистачка X-STEAM - White</title>
+<description>Благодарение на резервоара за многократно пълнене можете да почиствате и дезинфекцирате без прекъсване с непрекъсната пара. XSTEAM : преносимата парочистачка с неограничена автономия. Благодарение на естествената сила на парата XSteam no stop почиства всички домакински повърхности за максимална хигиена без помощта на химически препарати, като унищожава до 99,9% от микробите и бактериите. Регулирането на парата осигурява правилно дозиране според избрания тип повърхност, а почистените места изсъхват за няколко минути. Акумулаторният резервоар за вода е бърз и позволява почистване без прекъсване, като спестява време. Ефективна и компактна парочистачка за хигиена във вашия дом Защо да почиствате с пара? Предимството на почистването с пара е резултатът! Използвайки само вода и без нужда от използване на химически препарати. Парата премахва най-упоритите замърсявания в кухнята, дезинфекцира банята и прониква детайлно във всякакъв вид тъкани. Многофункционална парочистачка с неограничена автономия XSТЕАМ е парочистачката, която наистина дезинфекцира всяко скрито кътче и благодарение на 1,1-литровия акумулаторен резервоар никога не спирате да почиствате! Всъщност можете да доливате вода, без да чакате котелът да изстине, и да завършите почистването бързо и ефективно. Какво можете да почистите с пара? Можете да почистите наистина всичко. Кръглите четки са идеални за цялостно обезмасляване на кухненския плот и фурната, чучурът съживява възглавниците и плюшените играчки, четката с кърпа с капаче е предназначена за тъкани, завеси и дюшеци. Регулирайте струята на парата с подходящото копче за ефективно почистване дори на най-деликатните повърхности. Дезинфекцирайте дома си само с естествената сила на парата Почистване на подове с микрофибърна кърпа С едноцилиндровата парочистачка имате и удобството на парочистачката за подове, която почиства с лекота паркет, мрамор и плочки. Освен че е естествен дезинфектант за подове, вече не е необходимо да чакате да изсъхне, защото парата не оставя следи от влага. Лесно и блестящо почистване на цялата къща Най-лесното и евтино решение за придаване на блясък на цялата къща е използването на пара. Струята под високо налягане побеждава мръсотията и инкрустациите. Същевременно изсъхва бързо и не оставя следи от влага. Благодарение на високата температура, парата дълбоко дезинфекцира средата и повърхностите от всякакъв вид. Хигиена и безопасност с пара при 100° За да предпазите дома си от замърсяване с микроби и бактерии, можете да използвате парата като мощен и естествен дезинфектант. Без да прибягвате до химически почистващи препарати, домът ви отново ще бъде чисто и безопасно място за цялото ви семейство.</description>
+<price>255,99</price>
+<availability>out of stock</availability>
+<link>https://ariete.bg/parochistachka-xsteam/?attribute_pa_cvjat=white</link>
+<image_link>https://ariete.bg/wp-content/uploads/2024/06/ariete-4147-xsteam-nostop.jpg</image_link>
+<categories>Парочистачки</categories>
+<color>White</color>
+<category>Парочистачки</category>
+<child_category>Парочистачки</child_category>
+<weight>8.3 kg</weight>
+<size/>
+<product_type>variation</product_type>
+<sku>00P414702AR0</sku>
+<width>26 cm</width>
+<height>30 cm</height>
 <lenght>37 cm</lenght>
 </product>
 </products>
