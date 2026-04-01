@@ -7,7 +7,6 @@
 <price>269,99</price>
 <availability>out of stock</availability>
 <link>https://ariete.bg/furna-za-pica-ariete-da-gennaro-430c/</link>
-<image_link>https://ariete.bg/wp-content/uploads/2026/03/gabdu8c6xhsux8zfi8nd.webp</image_link>
 <categories>Мини фурни > Фурни за пица</categories>
 <color/>
 <category>Мини фурни</category>
@@ -15,10 +14,13 @@
 <weight>12 kg</weight>
 <size/>
 <product_type>simple</product_type>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/03/xyn8weqs6ilqrsehtpul.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/03/urxcum4h4bcarzrbrdiy.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/03/b4vwmmzypqhiqasa5ymv.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/03/forno-pizza-ariete-3901accessori-f41bb34a4ceec71487d7bf01e64bc940.webp</additional_image_link>
+<images>
+<image>https://ariete.bg/wp-content/uploads/2026/03/gabdu8c6xhsux8zfi8nd.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/03/xyn8weqs6ilqrsehtpul.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/03/urxcum4h4bcarzrbrdiy.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/03/b4vwmmzypqhiqasa5ymv.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/03/forno-pizza-ariete-3901accessori-f41bb34a4ceec71487d7bf01e64bc940.webp</image>
+</images>
 <sku>00C390100AR0</sku>
 <width>44 cm</width>
 <height>29 cm</height>
@@ -31,7 +33,6 @@
 <price>79,99</price>
 <availability>in stock</availability>
 <link>https://ariete.bg/parochistachka-easy-steam/</link>
-<image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-1.webp</image_link>
 <categories>Топ Оферти > Парочистачки</categories>
 <color/>
 <category>Парочистачки</category>
@@ -39,10 +40,13 @@
 <weight>2.5 kg</weight>
 <size/>
 <product_type>simple</product_type>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-5.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-4.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-2.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-3.webp</additional_image_link>
+<images>
+<image>https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-1.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-2.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-5.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-4.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/02/planetaren_mikser_gourmet_supreme_10_litra_ariete-8.webp</image>
+</images>
 <sku>00P417901AR0</sku>
 <width>22.5 cm</width>
 <height>116 cm</height>
@@ -55,7 +59,6 @@
 <price>189,99</price>
 <availability>in stock</availability>
 <link>https://ariete.bg/parochistachka-dual-steam-scrub-s-vartjasht-se-mop/</link>
-<image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete.webp</image_link>
 <categories>Топ Оферти > Парочистачки</categories>
 <color/>
 <category>Парочистачки</category>
@@ -63,10 +66,13 @@
 <weight>4.5 kg</weight>
 <size/>
 <product_type>simple</product_type>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-2.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-6.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-3.webp</additional_image_link>
-<additional_image_link>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_dual_steam_scrub_ariete-4.webp</additional_image_link>
+<images>
+<image>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-1.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-5.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-4.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-2.webp</image>
+<image>https://ariete.bg/wp-content/uploads/2026/02/parochistachka_easy_steam_ariete-3.webp</image>
+</images>
 <sku>00P417800AR0</sku>
 <width>17 cm</width>
 <height>120 cm</height>
